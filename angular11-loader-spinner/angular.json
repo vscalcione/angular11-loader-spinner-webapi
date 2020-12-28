@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular11-loader-spinner"
+  "defaultProject": "angular11-loader-spinner",
+  "cli": {
+    "analytics": "3c5b3db8-4b00-4a6f-acdf-2eed5939642a"
+  }
 }
